@@ -15,7 +15,7 @@
 ### CS Student → DevOps Engineer | Madurai, Tamil Nadu
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faiyaas.dev-00F5FF?style=for-the-badge&labelColor=050508)](https://faiyaas.dev)
-[![Email](https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faiyaas@example.com)
+[![Email](https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faiyaasahamed@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faiyaas)
 
 </div>
@@ -29,9 +29,9 @@ $ cat /etc/faiyaas/profile.txt
 
 Name    : Faiyaas Ahamed. N
 Role    : DevOps Engineering Student
-Location: Madurai, Tamil Nadu 🇮🇳
+Location: Madurai, Tamil Nadu, India
 College : Anna University Affiliated
-Status  : Pre-Final Year CS → Seeking Internship
+Status  : Final Year CS → Seeking Internship
 
 Bio     : CS student who broke and fixed dual-boot before knowing
           what a package manager was. Builds pipelines, containerizes
