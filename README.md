@@ -126,7 +126,7 @@ open_to    : DevOps / SRE Internships + Full-time (2027)
 
 <div align="center">
 
-> 🔗 **[View my Boot.dev profile →](https://www.boot.dev/u/faiyaas)**
+> 🔗 **[View my Boot.dev profile →](https://www.boot.dev/u/faiyaas-dev)**
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/8d279c19-a929-4570-a315-f93fa41f7103/thumbnail" >
 </p>
