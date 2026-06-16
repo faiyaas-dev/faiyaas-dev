@@ -97,15 +97,24 @@ open_to    : DevOps / SRE Internships + Full-time (2027)
 ### 🎬 Netflix Clone — DevSecOps Platform
 
 <!-- START_SECTION:featured_project -->
-### 🚀 Featured Project: 🎬 Netflix Clone — DevSecOps Platform
+---
+
+## 🚀 Featured Project
+
+### 🎬 Netflix Clone — DevSecOps Platform
 *End-to-end DevOps capstone. Real infra, real pipeline, real observability.*
 
 | Metric | Details |
 | :--- | :--- |
-| **Current Focus** | Setting up CI Pipeline, Trivy scanning, and SonarCloud |
-| **Deployment Status** | 🟡 Infrastructure Provisioned (k3s on DigitalOcean via Terraform) |
-| **Last Updated** | Fetching latest updates... |
-| **Latest Commit** | `Initializing workflow pipeline...` |
+| **Pipeline Status** | ![CI/CD Pipeline](https://github.com/faiyaas-dev/devops-capstone-project/actions/workflows/main-pipeline.yml/badge.branch) |
+| **Current Focus** | Building CI Pipeline (Trivy scan → SonarCloud → Build → Push) |
+| **Deployment Status** | 🟡 k3s Cluster Provisioned (DigitalOcean BLR1) |
+| **Last Updated** | Fetching latest runtime metadata... |
+| **Latest Commit** | `Initializing pipeline...` |
+
+#### 🏗️ Architecture Stack
+`k3s` • `DigitalOcean` • `Terraform` • `ArgoCD` • `GitHub Actions` • `Trivy` • `SonarCloud` • `Prometheus/Grafana`
+---
 
 #### 🏗️ Architecture Stack
 `k3s` • `DigitalOcean` • `Terraform` • `ArgoCD` • `GitHub Actions` • `Trivy` • `SonarCloud` • `Prometheus/Grafana`
