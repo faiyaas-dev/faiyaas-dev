@@ -1,5 +1,4 @@
-<!-- FAIYAAS AHAMED. N — GitHub Profile README -->
-<!-- Place this file at: github.com/<your-username>/<your-username>/README.md -->
+<!-- Profile README — github.com/faiyaas-dev/faiyaas-dev/README.md -->
 
 <div align="center">
 
@@ -12,9 +11,9 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-### CS Student → DevOps Engineer | Madurai, Tamil Nadu
+### CS Student → DevOps Engineer | Kariapatti, Tamil Nadu 🇮🇳
 
-[![Email](https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faiyaasahamed@gmail.com)
+[![Email](https://img.shields.io/badge/faiyaasahamed@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faiyaasahamed@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faiyaas)
 
 </div>
@@ -26,33 +25,19 @@
 ```bash
 $ cat /etc/faiyaas/profile.txt
 
-Name    : Faiyaas Ahamed. N
-Role    : DevOps Engineering Student
-Location: Madurai, Tamil Nadu, India
-College : Anna University Affiliated
-Status  : Final Year CS → Seeking Internship
+Name      : Faiyaas Ahamed. N
+Role      : DevOps Engineering Student
+College   : Sethu Institute of Technology, Kariapatti
+Affil.    : Anna University
+Grad Year : 2027
+Status    : Final Year CSBS → Open to Internships & Full-time
 
-Bio     : CS student who broke and fixed dual-boot before knowing
-          what a package manager was. Builds pipelines, containerizes
-          services, runs a 24/7 home lab.
+Bio       : CS student who broke and fixed dual-boot before knowing
+            what a package manager was. Builds pipelines,
+            containerizes services, obsesses over clean infra.
 
-Quote   : "I don't just write code — I make sure it runs."
+Quote     : "I don't just write code — I make sure it runs."
 ```
-
----
-
-## ⚡ Featured Projects
-
-> Real metrics. No filler.
-
-| Project | Stack | Impact |
-|---|---|---|
-| 🚀 **[CI/CD Pipeline Automation](#)** | Python · Docker · Jenkins · GitHub Actions · AWS | **73% faster deploys** |
-| 🏗️ **[Terraform AWS Infrastructure](#)** | HCL · Terraform · AWS · VPC | **100% infra as code** |
-| 📊 **[K8s Monitoring Stack](#)** | YAML · Kubernetes · Prometheus · Grafana | **99.9% alert accuracy** |
-| 🏠 **[Self-Hosted Home Lab](#)** | Bash · Proxmox · Raspberry Pi · WireGuard | **24/7 uptime** |
-
-> 🎮 **[Live SRE Simulator](https://faiyaas.dev#activity)** — Interactive load-balancer demo on my portfolio. Hit it.
 
 ---
 
@@ -96,21 +81,41 @@ Quote   : "I don't just write code — I make sure it runs."
 
 ---
 
-## 📚 Currently Learning — Boot.dev DevOps Path
+## 📚 Boot.dev — DevOps Path Progress
 
-> Structured, project-based. No tutorial hell.
+> Structured backend + DevOps curriculum. No tutorial hell.
+
+<!-- 
+  BOOT.DEV EMBED: Replace the image below with your actual embed URL.
+  How to get it:
+  1. Go to boot.dev → click your profile picture → "Profile"
+  2. Look for "Share Profile" or the embed/copy icon on your profile page
+  3. Copy the embed image URL (looks like: https://api.boot.dev/v1/users/public/<your-id>/card.png)
+  4. Replace the placeholder src below with that URL
+  5. Update the href to your actual Boot.dev profile URL
+-->
+
+<div align="center">
+
+[![Boot.dev Profile](https://api.boot.dev/v1/users/public/REPLACE_WITH_YOUR_BOOTDEV_ID/card.png)](https://www.boot.dev/u/REPLACE_WITH_YOUR_USERNAME)
+
+</div>
 
 ```
-Boot.dev — DevOps Engineering Track
+Boot.dev — DevOps Path
 
 [✅] Learn Linux
 [✅] Learn Git
-[🔄] Learn Shell Scripting (Bash)       ← currently here
-[ ] Learn OOP (Python)
+[✅] Learn Shell Scripting (Bash)
+[🔄] Learn OOP — Python         ← Lesson 5 (in progress)
+[ ] Build Asteroids (Python)
+[ ] Personal Project 1
 [ ] Learn Golang
 [ ] Learn Operating Systems (Go)
 [ ] Learn Networking (Go)
+[ ] Learn HTTP Clients (Go)
 [ ] Learn SQL
+[ ] Learn HTTP Servers (Go)
 [ ] Learn Docker
 [ ] Learn CI/CD (Docker + GitHub Actions + Go)
 [ ] Learn Cloud Infrastructure (AWS)
@@ -121,48 +126,76 @@ Boot.dev — DevOps Engineering Track
 
 ---
 
+## 🚀 Featured Project
+
+### 🎬 Netflix Clone — DevSecOps Platform
+
+> End-to-end DevOps capstone. Real infra, real pipeline, real observability.
+
+`▓▓▓▓▓▓░░░░░░░░░░░░░░` **~30% complete** — Infra provisioned, CI pipeline in progress
+
+| Layer | Tech |
+|---|---|
+| **App** | Netflix Clone (containerized) |
+| **Registry** | GitHub Container Registry (GHCR) |
+| **Infra** | k3s on DigitalOcean BLR1 (Terraform) |
+| **GitOps** | ArgoCD |
+| **CI Pipeline** | GitHub Actions → Trivy → SonarCloud → Build → Push → GitOps tag update |
+| **Scaling** | HPA — 2 → 6 replicas under load |
+| **Observability** | kube-prometheus-stack + github-actions-exporter |
+| **Dashboards** | DORA metrics — deploy freq, pipeline duration, failure rate |
+
+[![netflix-clone-app](https://img.shields.io/badge/Repo-netflix--clone--app-181717?style=flat-square&logo=github)](https://github.com/faiyaas-dev/netflix-clone-app)
+[![netflix-clone-gitops](https://img.shields.io/badge/Repo-netflix--clone--gitops-181717?style=flat-square&logo=github)](https://github.com/faiyaas-dev/netflix-clone-gitops)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&bg_color=050508&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&border_color=00F5FF&hide_border=false&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=faiyaas-dev&show_icons=true&theme=dark&bg_color=050508&title_color=00F5FF&icon_color=FF006E&text_color=ffffff&border_color=00F5FF&count_private=true" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark&bg_color=050508&title_color=00F5FF&text_color=ffffff&border_color=00F5FF&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiyaas-dev&layout=compact&theme=dark&bg_color=050508&title_color=00F5FF&text_color=ffffff&border_color=00F5FF&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=dark&background=050508&border=00F5FF&stroke=00F5FF&ring=FF006E&fire=FFB300&currStreakLabel=00F5FF&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faiyaas-dev&theme=dark&background=050508&border=00F5FF&stroke=00F5FF&ring=FF006E&fire=FFB300&currStreakLabel=00F5FF&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏗️ What I'm Building
+## 🎯 Currently
 
-- **[faiyaas.dev](https://faiyaas.dev)** — My portfolio (React 18 + Vite + Three.js). Has a live SRE simulator you can actually interact with.
-- **Home Lab** — Proxmox hypervisor + self-hosted services + WireGuard VPN. Running 24/7 on bare metal.
-- **Boot.dev Capstone** — End-to-end DevOps project incoming (CI/CD + Docker + Kubernetes + AWS).
+- 📖 **Studying:** OOP in Python (Boot.dev Course 5) — building toward the DevOps capstone
+- 🏗️ **Building:** Netflix Clone DevSecOps Platform — k3s + ArgoCD + GitHub Actions CI
+- 🎓 **At:** Sethu Institute of Technology (Final Year CSBS, 2027)
+- 👀 **Open to:** DevOps / SRE internships + full-time after graduation
 
 ---
 
-## 📁 Pinned Repos — What to Look At
+## ⏱️ Weekly Coding Activity
 
-> Pin these 4 in this order on your GitHub profile:
+<!--
+  WAKATIME SETUP (auto-updates weekly):
+  1. Go to wakatime.com → sign up free
+  2. Install WakaTime extension in VSCode (Extensions → search "WakaTime" → install → paste API key)
+  3. Code normally — it tracks silently in background
+  4. After ~1 week, replace YOUR_WAKATIME_USERNAME below with your actual username
+  5. The badge auto-refreshes showing your real language breakdown
+-->
 
-1. `ci-cd-pipeline-automation` — Jenkins + GitHub Actions + Docker. 73% deploy time reduction.
-2. `terraform-aws-infra` — Full VPC, EC2, S3 setup. 100% IaC.
-3. `k8s-monitoring-stack` — Prometheus + Grafana on K8s. 99.9% alert accuracy.
-4. `home-lab-setup` — Proxmox + WireGuard + Raspberry Pi. My 24/7 lab.
+[![wakatime](https://wakatime.com/badge/user/REPLACE_WITH_YOUR_WAKATIME_USERNAME.svg)](https://wakatime.com/@REPLACE_WITH_YOUR_WAKATIME_USERNAME)
 
 ---
 
 <div align="center">
 
-**`→ faiyaas.dev`** — The real portfolio. Stats, live demos, the whole thing.
+📬 **faiyaasahamed@gmail.com** · [LinkedIn](https://linkedin.com/in/faiyaas)
 
-*Currently: Pre-Final Year CS @ Anna University Affiliate, Madurai*
-*Available: Open to DevOps/SRE internships*
+*Sethu Institute of Technology · Anna University · Kariapatti · CSBS 2027*
 
 </div>
