@@ -96,24 +96,20 @@ open_to    : DevOps / SRE Internships + Full-time (2027)
 
 ### 🎬 Netflix Clone — DevSecOps Platform
 
-> End-to-end DevOps capstone. Real infra, real pipeline, real observability.
+<!-- START_SECTION:featured_project -->
+### 🚀 Featured Project: 🎬 Netflix Clone — DevSecOps Platform
+*End-to-end DevOps capstone. Real infra, real pipeline, real observability.*
 
-`▓▓▓▓▓▓░░░░░░░░░░░░░░` **~30% complete** — Infra provisioned, CI pipeline in progress
+| Metric | Details |
+| :--- | :--- |
+| **Current Focus** | Setting up CI Pipeline, Trivy scanning, and SonarCloud |
+| **Deployment Status** | 🟡 Infrastructure Provisioned (k3s on DigitalOcean via Terraform) |
+| **Last Updated** | Fetching latest updates... |
+| **Latest Commit** | `Initializing workflow pipeline...` |
 
-| Layer | Tech |
-|---|---|
-| **App** | Netflix Clone (containerized) |
-| **Registry** | GitHub Container Registry (GHCR) |
-| **Infra** | k3s on DigitalOcean BLR1 (provisioned via Terraform) |
-| **GitOps** | ArgoCD |
-| **CI Pipeline** | GitHub Actions → Trivy scan → SonarCloud → Build → Push → GitOps tag update |
-| **Scaling** | HPA — auto-scales 2 → 6 replicas under load |
-| **Observability** | kube-prometheus-stack + github-actions-exporter |
-| **Dashboards** | DORA metrics — deploy frequency, pipeline duration, failure rate |
-
-[![netflix-clone-app](https://img.shields.io/badge/Repo-netflix--clone--app-181717?style=flat-square&logo=github)](https://github.com/faiyaas-dev/netflix-clone-app)
-[![netflix-clone-gitops](https://img.shields.io/badge/Repo-netflix--clone--gitops-181717?style=flat-square&logo=github)](https://github.com/faiyaas-dev/netflix-clone-gitops)
-
+#### 🏗️ Architecture Stack
+`k3s` • `DigitalOcean` • `Terraform` • `ArgoCD` • `GitHub Actions` • `Trivy` • `SonarCloud` • `Prometheus/Grafana`
+<!-- END_SECTION:featured_project -->
 ---
 
 ## 📚 Boot.dev — DevOps Path
