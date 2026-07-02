@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=DevOps+Engineering+Student;CI%2FCD+%7C+Containers+%7C+Cloud+%7C+IaC;Boot.dev+DevOps+Path+%E2%80%94+In+Progress;%22I+don%27t+just+write+code+%E2%80%94+I+make+sure+it+runs.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=DevOps+Engineering+Student;CI%2FCD+%7C+Containers+%7C+Cloud+%7C+IaC;linux administrator+%E2%80%94+In+Progress;%22I+don%27t+just+write+code+%E2%80%94+I+make+sure+it+runs.%22)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ```yaml
 name       : Faiyaas Ahamed. N
-role       : DevOps Engineering Student
+role       : Linux Administrator
 college    : Sethu Institute of Technology, Kariapatti
 university : Anna University (Affiliated)
 degree     : B.E. Computer Science & Business Systems (CSBS)
